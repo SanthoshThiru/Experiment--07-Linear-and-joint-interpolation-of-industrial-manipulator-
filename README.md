@@ -41,8 +41,6 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 ### Program : 
 DART studio screen shots for linear interpolation 
-![IMG-20240422-WA0060](https://github.com/SanthoshThiru/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/148958618/d0dacc18-1367-4dbd-b3ce-18a1dd9ae343)
-![IMG-20240422-WA0064](https://github.com/SanthoshThiru/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/148958618/f1e7475c-2efd-4ba0-821e-c5f48f13b6fe)
 
 
 
@@ -54,8 +52,6 @@ DART studio screen shots for linear interpolation
 
 DART studio screen shots for joint interpolation 
 
-![IMG-20240422-WA0062](https://github.com/SanthoshThiru/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/148958618/eef78bbb-df69-4ab3-8a2f-c07e7ffc9348)
-![IMG-20240422-WA0063](https://github.com/SanthoshThiru/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/148958618/12c3f673-a5a6-48cd-bf18-e78c94399c41)
 
 
 
@@ -65,21 +61,6 @@ DART studio screen shots for joint interpolation
 
 ### Robot movements 
 
-![IMG-20240422-WA0055](https://github.com/SanthoshThiru/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/148958618/11550308-534e-4ba7-93ec-a80ee2466d2f)
-
-![IMG-20240422-WA0053](https://github.com/SanthoshThiru/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/148958618/b0e133a7-b7d9-4262-a6f2-6897ed443b79)
-
-![IMG-20240422-WA0058](https://github.com/SanthoshThiru/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/148958618/30161353-2c58-45c3-b61b-775fb6957f5c)
-
-![IMG-20240422-WA0054](https://github.com/SanthoshThiru/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/148958618/eac817b9-5f3e-4a1a-bc80-9b2554595635)
-
-![IMG-20240422-WA0059](https://github.com/SanthoshThiru/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/148958618/065d4e0b-08f2-4637-8443-174debb75268)
-
-![IMG-20240422-WA0056](https://github.com/SanthoshThiru/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/148958618/1a0f7c35-1dd6-4454-8b8d-fff7ecd4062a)
-
-![IMG-20240422-WA0057](https://github.com/SanthoshThiru/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/148958618/17457aed-3530-4a02-a7ab-b048e6370049)
-
-![IMG-20240422-WA0061](https://github.com/SanthoshThiru/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/148958618/874f05ad-e774-45e7-be49-70e27b8d3e1a)
 
 
 
